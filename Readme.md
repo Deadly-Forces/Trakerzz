@@ -16,3 +16,4 @@ Use it at your own risk and ensure compliance with all applicable laws and regul
 
 Contributions are welcome! 🎉  
 Feel free to create pull request or open an issue to suggest improvements.
+
